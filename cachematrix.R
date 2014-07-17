@@ -1,7 +1,7 @@
 ## This is a set of functions that generates (if needed) and caches the inverse 
 ## of a matrix. The first function declares an object that includes the matrix
 ## and its cached inverse. The second function accesses the object, and retrieves
-## the cache or inverts the matrix if the cache is null
+## the cache or inverts the matrix if the cache is null 
 
 ## This function creates an object of the kind makeCacheMatrix
 ## This object is a listing of an environment with a matrix, its inverse if
